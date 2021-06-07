@@ -1,5 +1,8 @@
 def main(msg):
-	//Am updatat cu un mesaj DOI
+	//No longer need comments here
     print(msg)
+    
+def secondary()
+	print("New function!!!!!!")    
 
 main("Hello lume")
